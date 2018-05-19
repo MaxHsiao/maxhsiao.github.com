@@ -3,6 +3,8 @@
 # Edit by vastxiao
 # Date at 20170506 
 
+export GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_root'
+
 cd $(dirname $0)
 MAINPATH=$(pwd)
 cd hexo_root || exit 1
