@@ -5,7 +5,7 @@
 
 cd $(dirname $0)
 MAINPATH=$(pwd)
-cd bloginit || exit 1
+cd hexo_root || exit 1
 hexo version || exit 1
 hexo clean
 hexo gen
