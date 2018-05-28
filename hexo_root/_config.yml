@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 网站标题
-subtitle: 子标题
-description: 描述
+title: link world
+subtitle: link world
+description: link world.
 keywords:
-author: 名字
+author: look-on
 language: en
 timezone:
 
@@ -74,7 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: aath
+#theme: aath
+theme: minos
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
