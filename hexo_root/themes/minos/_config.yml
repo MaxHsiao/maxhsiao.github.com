@@ -1,10 +1,11 @@
 favicon: /favicon.png
-open_graph:
-  twitter_id:
-  twitter_site:
-  google_plus:
-  fb_admins:
-  fb_app_id:
+
+#open_graph:
+#  twitter_id:
+#  twitter_site:
+#  google_plus:
+#  fb_admins:
+#  fb_app_id:
 
 logo: /images/lwlogo.png
 

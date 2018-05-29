@@ -17,7 +17,7 @@ menu:
 * __Place of origin:__ Fujian,China
 * __Supply period:__ Fresh season:Mid of August to the end of December Cold storage season: December to next year
 * __Size:__ 7-14 cm
-* __Packing__ Inner packing: Each pomelo packed in plastic film & mesh bag with color ribbon
+* __Packing Inner packing:__ Each pomelo packed in plastic film & mesh bag with color ribbon
 * __Outer packing:__ in cartons, 7-14pcs/ctn, 11-12kg/carton
 * __Loading:__ Pallets and refrigerated containers are used,1530cartons for the open cartons and 1640 cartons for the semi-open cartons
 * __shipping:__ Containers temperature: 5-6 degree Celsius, Ventilation: 25-30 CBM per container
