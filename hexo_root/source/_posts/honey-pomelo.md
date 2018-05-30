@@ -5,13 +5,10 @@ menu:
   Contact: /about/#Contact-Us
 ---
 
-![](/images/honey_pomelo/honey_pomelo1.jpg)
-![](/images/honey_pomelo/honey_pomelo2.jpg)
-![](/images/honey_pomelo/honey_pomelo3.jpg)
 ![](/images/honey_pomelo/honey_pomelo4.jpg)
+![](/images/honey_pomelo/honey_pomelo3.jpg)
+![](/images/honey_pomelo/honey_pomelo2.jpg)
 ![](/images/honey_pomelo/honey_pomelo5.jpg)
-![](/images/honey_pomelo/honey_pomelo6.jpg)
-![](/images/honey_pomelo/honey_pomelo7.jpg)
 
 * __Product name:__ Honey Pomelo
 * __Place of origin:__ Fujian,China
